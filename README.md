@@ -1,13 +1,21 @@
-# DesiQna-Interview-Experiences
-DesiQna Interview Experiences Page
-This is the Frontend Web page. Its purpose is to make user experience better and have all the Interview Experiences of different companies in a proper manner.
+# itjobxs SDE Internship Project
 
-Tech Stack:
+Responsive web section built during my SDE internship at itjobxs (June 2024–Jan 2025).
 
-HTML
+## Features
+- Modern, responsive user interface
+- User authentication and verification
+- Fake bot/post detection
+- Google reCAPTCHA integration
 
-CSS
+## Tech Stack
+HTML, CSS, JavaScript, Bootstrap, PHP, MySQL
 
-BOOTSTRAP
+## How to Run
+1. Clone the repo
+2. Set up the database and config in `config.php`
+3. Open in a browser with a local web server
 
-JAVASCRIPT
+## Author
+Designed and developed by [Partha Sarathi Das](https://www.linkedin.com/in/partha-sarathi-das-bbb09b260/)
+
