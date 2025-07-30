@@ -11,11 +11,6 @@ Responsive web section built during my SDE internship at itjobxs (June 2024–Ja
 ## Tech Stack
 HTML, CSS, JavaScript, Bootstrap, PHP, MySQL
 
-## How to Run
-1. Clone the repo
-2. Set up the database and config in `config.php`
-3. Open in a browser with a local web server
-
 ## Author
 Designed and developed by [Partha Sarathi Das](https://www.linkedin.com/in/partha-sarathi-das-bbb09b260/)
 
